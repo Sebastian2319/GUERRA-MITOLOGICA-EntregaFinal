@@ -33,7 +33,7 @@ public class ControlManager : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.N))
         {
             SceneManager.LoadScene(11);
-        }
+        }kjkkj
         DetectPressedKey(); //Get the Pressed Key
 
         PrintControls(); //Just for testing
