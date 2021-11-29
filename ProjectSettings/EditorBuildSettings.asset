@@ -1,0 +1,143 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MENU.unity
+    guid: b378585472332664aa75f71022cb0605
+  - enabled: 1
+    path: Assets/Scenes/PVP/CALAVERA/AZTECA.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/PVP/CALAVERA/SELECCION.unity
+    guid: f97685b4bf2fe034c96e2b521d0a8a4d
+  - enabled: 1
+    path: Assets/Scenes/MOVIMIENTOS.unity
+    guid: 4e71d58f7ca52c749a5b4fff45b96717
+  - enabled: 1
+    path: Assets/Scenes/CARGAUNO.unity
+    guid: 38a50b8c6638ec44eb0293e8740b49ee
+  - enabled: 1
+    path: Assets/Scenes/PVP/CALAVERA/CARGADOS.unity
+    guid: fb2930bd59f98cf448af6901a96f6b7f
+  - enabled: 1
+    path: Assets/Scenes/PVP/CALAVERA/SELE E.unity
+    guid: 08757ed691b575c42b39b4e5dc2428d2
+  - enabled: 1
+    path: Assets/Scenes/PVP/CALAVERA/CARGATRES.unity
+    guid: b483217bd9aa4e8458803136b5a03bb8
+  - enabled: 1
+    path: Assets/Scenes/PVP/CALAVERA/CARGACUATRO.unity
+    guid: 53fc75bd735f72444bfbb68da860d0e7
+  - enabled: 1
+    path: Assets/Scenes/PVP/CALAVERA/ROMA.unity
+    guid: ddcb3d1ea4fbb7249a55ff3b40cee591
+  - enabled: 1
+    path: Assets/Scenes/PVP/CALAVERA/EGIPTO.unity
+    guid: a9f04cc6599f4ec49b6554fe338cf344
+  - enabled: 1
+    path: Assets/Scenes/MENU 2.unity
+    guid: ed6cdb72c15c83b4a82c1e5cce3273ad
+  - enabled: 1
+    path: Assets/Scenes/PRACTICA/SELEPRAC.unity
+    guid: b150affe51a23264db144bee2c3e424a
+  - enabled: 1
+    path: Assets/Scenes/PRACTICA/CALAVERA/E1.unity
+    guid: 604894df6e0409e4bbd3e115eec6e84d
+  - enabled: 1
+    path: Assets/Scenes/PRACTICA/CALAVERA/P1.unity
+    guid: 051e37a061cc2ce489ba9a5bfbc2d5f6
+  - enabled: 1
+    path: Assets/Scenes/PRACTICA/CALAVERA/P2.unity
+    guid: 08500b4f37d31e144bb7e9db572c5d08
+  - enabled: 1
+    path: Assets/Scenes/PRACTICA/CALAVERA/P3.unity
+    guid: b71209fca065c7445877dc7672a255d9
+  - enabled: 1
+    path: Assets/Scenes/PRACTICA/POSEIDON/PP1.unity
+    guid: 30e531ad4a4a55248a3a286d011e71d4
+  - enabled: 1
+    path: Assets/Scenes/PRACTICA/POSEIDON/E2.unity
+    guid: 16e5bbc518c8d1b4d88a662d6e3e45db
+  - enabled: 1
+    path: Assets/Scenes/PRACTICA/RA/E3.unity
+    guid: c9e500417a2c72940aadc15a05f72b94
+  - enabled: 1
+    path: Assets/Scenes/PRACTICA/RA/PO2.unity
+    guid: 921c0a3a827ce5b4f811835bcc59195c
+  - enabled: 1
+    path: Assets/Scenes/PRACTICA/RA/PO3.unity
+    guid: 772c7b8be119c54459d243cb59b5d203
+  - enabled: 1
+    path: Assets/Scenes/PRACTICA/RA/PO1.unity
+    guid: c7721cb284082ec43a83e2aafaeab681
+  - enabled: 1
+    path: Assets/Scenes/PRACTICA/POSEIDON/PP2.unity
+    guid: 3af6b704a0bfbf14bace6bd9d936849e
+  - enabled: 1
+    path: Assets/Scenes/PRACTICA/POSEIDON/PP3.unity
+    guid: 6747a1cf6cd54144b890075db1ff4dde
+  - enabled: 1
+    path: Assets/Scenes/TORNEO/TORSELEC.unity
+    guid: f7c4263497bc5914e9afc4f4f6ff24f6
+  - enabled: 1
+    path: Assets/Scenes/TORNEO/EGI1.unity
+    guid: d27dc1656bc89fa42a44322a4238c07e
+  - enabled: 1
+    path: Assets/Scenes/TORNEO/RO1.unity
+    guid: da4e108242dd46a41ba748467de96c85
+  - enabled: 1
+    path: Assets/Scenes/TORNEO/CARGA1.unity
+    guid: c9764bef25617bf428a304583accc627
+  - enabled: 1
+    path: Assets/Scenes/TORNEO/CARGA2.unity
+    guid: 1e720cd3007e7bd478fb8dafbbb53758
+  - enabled: 1
+    path: Assets/Scenes/TORNEO/VICTORIA.unity
+    guid: 1b545337c20a6d74fb0e9d4dc25134f7
+  - enabled: 1
+    path: Assets/Scenes/PVP/POSEIDON/AZPOS.unity
+    guid: f62497c7485bc9a4fa4a41ae369e9aa3
+  - enabled: 1
+    path: Assets/Scenes/PVP/POSEIDON/CC1.unity
+    guid: 9bb6d93a716af2f45b1d24737b01137b
+  - enabled: 1
+    path: Assets/Scenes/PVP/POSEIDON/EGIPOS.unity
+    guid: 407fcf66c144d1f40ae19f6de707d351
+  - enabled: 1
+    path: Assets/Scenes/PVP/POSEIDON/ROMPOS.unity
+    guid: 991639366437fb34b8658349272957ff
+  - enabled: 1
+    path: Assets/Scenes/PVP/POSEIDON/SELEC1.unity
+    guid: 3afedcd8ae6bf264ea10ee55c70aa1c9
+  - enabled: 1
+    path: Assets/Scenes/PVP/POSEIDON/CC2.unity
+    guid: 2752baa2aedfaa747aff41077172ed51
+  - enabled: 1
+    path: Assets/Scenes/PVP/POSEIDON/CC3.unity
+    guid: 33ed956274254a545985efeecfe02bef
+  - enabled: 1
+    path: Assets/Scenes/PVP/RA/SELERA.unity
+    guid: 12a98e1e5018b714ab2b8014d4e23f7e
+  - enabled: 1
+    path: Assets/Scenes/PVP/RA/AZTERA.unity
+    guid: 53cea4585bd65ef41b034e1e1c28a222
+  - enabled: 1
+    path: Assets/Scenes/PVP/RA/EGIRA.unity
+    guid: 63d4106d3bd5bd74eaaffbf8bbd463f6
+  - enabled: 1
+    path: Assets/Scenes/PVP/RA/ROMRA.unity
+    guid: b8c1d08ec57e5084490238e26dc7333f
+  - enabled: 1
+    path: Assets/Scenes/PVP/RA/CR1.unity
+    guid: 6ff1a11c82c9068459d305eadec33a26
+  - enabled: 1
+    path: Assets/Scenes/PVP/RA/CR2.unity
+    guid: 95ec168839220a641950036a675636b0
+  - enabled: 1
+    path: Assets/Scenes/PVP/RA/CR3.unity
+    guid: 713528904acf9e84baad6dd3cd83fd2f
+  m_configObjects: {}
